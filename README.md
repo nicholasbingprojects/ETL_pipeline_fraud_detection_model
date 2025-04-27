@@ -1,4 +1,4 @@
-# ETL ML Pipeline
+# ETL_pipeline_fraud_detection_model
 
 ## Overview
 This project implements an ETL pipeline integrated with a machine learning model, hosted as a web application.
