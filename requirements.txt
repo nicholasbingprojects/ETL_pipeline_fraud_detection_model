@@ -1,0 +1,7 @@
+Flask
+pandas
+scikit-learn
+sqlalchemy 
+matplotlib
+mysql.connector
+seaborn
